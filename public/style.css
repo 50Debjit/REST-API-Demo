@@ -1,0 +1,20 @@
+.post{
+background-color: orange;
+margin: 15px;
+}
+h3{
+    font-style: italic;
+}
+h1{
+    color:maroon;
+}
+a:hover{
+    border: 2px solid black;
+}
+.con{
+    margin: 5px;
+    color: red;
+}
+.cr{
+    margin: 10px;
+}
